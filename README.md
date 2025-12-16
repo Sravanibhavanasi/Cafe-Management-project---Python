@@ -38,8 +38,5 @@ This system allows users to place multiple orders, apply discount and GST automa
    Cafe_Management_Project.py
 
 
-## Output Preview
-
-<img width="975" height="904" alt="OUT PUT-Screenshot" src="https://github.com/user-attachments/assets/dec3c31f-fbde-466a-b213-1e1eac03077a" />
 
 
