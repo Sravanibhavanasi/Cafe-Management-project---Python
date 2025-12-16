@@ -1,0 +1,17 @@
+
+========== BILL RECEIPT ==========
+Chill & Fill Café
+Bill No: 2
+Customer: Honey
+Date/Time: 16-12-2025 10:20:09
+----------------------------------
+Item           Qty  Price   Total
+-----------------------------------
+Fries          5    50      ₹250
+-----------------------------------
+Subtotal:                  ₹250
+Discount:{'':<19}₹0.00
+GST @ 5%:              ₹12.5
+Grand Total:              ₹262.5
+==================================
+Thank you for visiting! 😊

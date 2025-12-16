@@ -1,0 +1,17 @@
+
+========== BILL RECEIPT ==========
+Chill & Fill Café
+Bill No: 1
+Customer: Varshi
+Date/Time: 16-12-2025 10:16:40
+----------------------------------
+Item           Qty  Price   Total
+-----------------------------------
+Salad          2    60      ₹120
+-----------------------------------
+Subtotal:                  ₹120
+Discount:{'':<19}₹0.00
+GST @ 5%:              ₹6.0
+Grand Total:              ₹126.0
+==================================
+Thank you for visiting! 😊

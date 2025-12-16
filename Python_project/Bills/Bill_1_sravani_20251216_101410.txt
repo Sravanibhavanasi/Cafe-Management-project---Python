@@ -1,0 +1,19 @@
+
+========== BILL RECEIPT ==========
+Chill & Fill Café
+Bill No: 1
+Customer: sravani
+Date/Time: 16-12-2025 10:14:10
+----------------------------------
+Item           Qty  Price   Total
+-----------------------------------
+Pizza          6    120     ₹720
+Pop Corn       6    90      ₹540
+Coffee         6    40      ₹240
+-----------------------------------
+Subtotal:                  ₹1500
+Discount @ 10%:        -₹150.0
+GST @ 5%:              ₹67.5
+Grand Total:              ₹1417.5
+==================================
+Thank you for visiting! 😊
